@@ -26,6 +26,49 @@
     cursor: pointer
     transition: background-color 0.3s ease-in-out
 
+  &--color-adicional-1
+    background-color: $color-adicional-1
+    border-radius: 20px
+    padding: 8rem 1rem 1rem 1rem 
+    margin: 1rem 
+    position: relative
+    display: flex
+    flex-direction: column
+    overflow: hidden 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) 
+    *
+      color: textColor($color-sistema-h)
+    &--borde
+      background-color: $color-adicional-1
+      color: textColor(lighten($color-sistema-h, 50%))
+      border: solid 4px $color-sistema-h
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.3) 
+
+  &--1::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_2/img_3.svg')
+    top: 15px
+    left: 50%
+    transform: translateX(-50%)
+  &--2::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_2/img_4.svg')
+    top: 15px
+    left: 50%
+    transform: translateX(-50%)
+  &--3::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_2/img_5.svg')
+    top: 15px
+    left: 50%
+    transform: translateX(-50%)
+  &--4::before
+    position: absolute
+    content: url('../assets/curso/temas/tema_2/img_6.svg')
+    top: 15px
+    left: 50%
+    transform: translateX(-50%)
+
     &.color-primario
       &:active, &:focus, &:hover
         background-color: $color-primario
