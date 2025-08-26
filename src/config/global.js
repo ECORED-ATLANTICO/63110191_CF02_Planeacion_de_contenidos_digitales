@@ -3,7 +3,7 @@ export default {
     Name: 'Estrategias de contenido',
     Description:
       'Este componente formativo está diseñado para guiar a los aprendices en la planificación estratégica de contenidos digitales, proporcionando conocimientos sobre la importancia de las narrativas digitales, la construcción de mensajes persuasivos y la utilización de herramientas digitales para su desarrollo.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-contenido.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -13,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
