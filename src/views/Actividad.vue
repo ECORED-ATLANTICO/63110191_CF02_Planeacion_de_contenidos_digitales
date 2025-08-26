@@ -73,7 +73,8 @@ export default {
         },
         {
           id: 3,
-          texto: 'El conflicto dentro de una historia es opcional y no influye en el interés del público.',
+          texto:
+            'El conflicto dentro de una historia es opcional y no influye en el interés del público.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
