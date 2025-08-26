@@ -160,7 +160,7 @@
           p.mb-0 El <em>engagement</em> es un factor clave en la <em>comunicación</em> digital, ya que determina el nivel de interacción y conexión que el público establece con un contenido; aplicar técnicas adecuadas de <em>Storytelling</em> permite fortalecer el compromiso de la audiencia y aumentar la efectividad de las estrategias.
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-2
+        .col-12.col-lg-10.mb-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
             |    Estrategias para mejorar el <em>engagement</em> con <em>Storytelling</em> 
