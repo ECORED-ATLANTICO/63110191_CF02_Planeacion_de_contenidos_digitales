@@ -36,13 +36,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: '<i>Storytelling</i> y su impacto en la comunicación digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Elementos narrativos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Importancia en el <i>marketing</i>',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Conexiones emocionales',
+            hash: 't_1_3',
           },
         ],
       },
@@ -50,14 +60,58 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Estrategias de contenidos basadas en <i>Storytelling</i>',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Narrativas comunes',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Adaptación de narrativas',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Casos de éxito',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Técnicas para fortalecer el <i>engagement</i>',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Planificación de contenidos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Definición de objetivos',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Calendarios de publicación',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Mapas de contenido',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Herramientas para planificación',
+            hash: 't_3_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',

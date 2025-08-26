@@ -132,8 +132,7 @@
             img(src="@/assets/curso/temas/tema_1/img_11.png", class="img-fluid d-none d-lg-block img100")
             img(src="@/assets/curso/temas/tema_1/img_12.png", class="img-fluid d-block d-lg-none img100")
           figcaption 
-            I(style="font-weight: normal;") Fuente.  
-            | SENA (2024).
+            p <b>Fuente:</b> SENA (2024).
 </template>
 
 <script>
