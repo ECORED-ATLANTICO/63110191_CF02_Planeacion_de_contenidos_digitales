@@ -179,22 +179,114 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Herramientas digitales',
+      referencia:
+        'Thomas, A. (2018). <i>23 open source audio-visual production tools</i>. Opensource.com.',
+      tipo: 'Artículo web',
+      link:
+        'https://opensource.com/article/18/2/open-source-audio-visual-production-tools',
+    },
+    {
+      tema: 'Importancia del <i>Storytelling</i> en el <i>marketing</i>',
+      referencia:
+        'HubSpot. (2022). <i>Qué es y cómo hacer un storytelling</i> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=77TAn3GuKSg',
+    },
+    {
+      tema: 'Narrativas en <i>marketing</i>',
+      referencia:
+        'Mavericks Marketing. (2024). <i>Narrative marketing: Harnessing the power of storytelling in your brand strategy</i>. ',
+      tipo: 'Artículo web',
+      link:
+        'https://mavericksmarketing.com/the-ultimate-guide-to-narrative-marketing-harnessing-the-power-of-storytelling-in-your-brand-strategy/',
+    },
+    {
+      tema: 'Planificación de contenidos',
+      referencia:
+        'Planable. (2025). <i>13 content planning tools for marketing success.</i> ',
+      tipo: 'Artículo web',
+      link: 'https://planable.io/blog/content-planning-tools/',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Calendario de publicación',
+      significado:
+        'Herramienta de planificación que organiza los tiempos, formatos y canales de distribución de contenido digital, asegurando coherencia y frecuencia adecuada.',
+    },
+    {
+      termino: 'Contenido digital',
+      significado:
+        'Información producida en formatos multimedia (texto, imagen, audio, video) para ser distribuida en plataformas digitales con fines comunicativos, educativos o comerciales.',
+    },
+    {
+      termino: '<i>Engagement</>',
+      significado:
+        'Nivel de interacción, conexión emocional y participación que una audiencia establece con un contenido, marca o mensaje digital.',
+    },
+    {
+      termino: 'Mapa de contenido',
+      significado:
+        'Esquema estratégico que organiza temáticas, subtemas, formatos y canales, facilitando la coherencia narrativa dentro de una estrategia de comunicación digital.',
+    },
+    {
+      termino: 'Narrativa digital',
+      significado:
+        'Relato adaptado a medios digitales que combina estructura narrativa tradicional con formatos breves, interactivos y multimedia para captar la atención del usuario.',
+    },
+    {
+      termino: 'Narrativa emocional',
+      significado:
+        'Tipo de <i>storytelling</i> que apela a sentimientos universales como la nostalgia, la felicidad o la motivación para generar conexión profunda con la audiencia.',
+    },
+    {
+      termino: 'Narrativa heroica',
+      significado:
+        'Estructura narrativa que presenta a un personaje enfrentando desafíos y superando obstáculos, generando inspiración y admiración en el público.',
+    },
+    {
+      termino: 'Planificación estratégica',
+      significado:
+        'Proceso de organización y diseño de contenidos digitales con base en objetivos comunicacionales, públicos meta y recursos disponibles.',
+    },
+    {
+      termino: 'Redacción persuasiva',
+      significado:
+        'Técnica de escritura orientada a provocar emociones, generar acción y convencer al lector mediante el uso de lenguaje evocador y estructuras narrativas.',
+    },
+    {
+      termino: '<i>Storytelling</i>',
+      significado:
+        'Técnica de comunicación que utiliza historias estructuradas para transmitir mensajes significativos, generar empatía y fortalecer el vínculo con la audiencia.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Araujo. F. (2023). <i>¿Cómo crear buen contenido digital?</i>Los Creativos.',
+      link: 'https://loscreativos.mx/marketing/crear-buen-contenido-digital/',
+    },
+    {
+      referencia:
+        'Elmas, B. (2025). <i>8 best persuasive writing techniques</i>. Eskritor.',
+      link: 'https://eskritor.com/persuasive-writing/',
+    },
+    {
+      referencia:
+        'Esparza, J. (2016). <i>Narrativa y storytelling</i>. Medium.',
+      link:
+        'https://medium.com/@Ruiz_Esparza/narrativa-y-storytelling-aff486f3497c',
+    },
+    {
+      referencia:
+        'Navarro, Z. (2009). <i>La industria de los contenidos en internet</>. Questión, 1.',
+      link: 'https://sedici.unlp.edu.ar/handle/10915/32250',
+    },
+    {
+      referencia:
+        'Redondo, E. (2016). <i>Storytelling multimedia</i>. Globorama.',
+      link: 'https://www.globograma.es/storytelling-multimedia',
     },
   ],
   creditos: [
