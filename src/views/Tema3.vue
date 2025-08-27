@@ -36,27 +36,27 @@
         .col-12.col-lg-6
           .row.justify-content-center.align-items-center.mb-3
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
-            .col-12.col-lg-10
+            .col-12.col-lg-10(data-aos="fade-left")
               h6 Aumentar el engagement
               p.linea-solida.mb-0 Generar interacción con la audiencia. 
           .row.justify-content-center.align-items-center.mb-3
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
-            .col-12.col-lg-10
+            .col-12.col-lg-10(data-aos="fade-left")
               h6 Fidelizar clientes
               p.linea-solida.mb-0 Crear contenido que fortalezca la relación con los consumidores. 
           .row.justify-content-center.align-items-center.mb-3
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
-            .col-12.col-lg-10
+            .col-12.col-lg-10(data-aos="fade-left")
               h6 Generar tráfico web
               p.linea-solida.mb-0 Atraer usuarios mediante contenido optimizado.
           .row.justify-content-center.align-items-center.mb-3
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
-            .col-12.col-lg-10
+            .col-12.col-lg-10(data-aos="fade-left")
               h6 Educar al público
               p.linea-solida.mb-0 Impartir información relevante que genere valor
           .row.justify-content-center.align-items-center.mb-0
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
-            .col-12.col-lg-10
+            .col-12.col-lg-10(data-aos="fade-left")
               h6 Mejorar la imagen de marca
               p.linea-solida.mb-0 Reflejar los valores y propósito del negocio.
 
@@ -102,9 +102,8 @@
           figure
             img(src="@/assets/curso/temas/tema_3/img_14.svg", class="img-fluid d-none d-lg-block img100")
             img(src="@/assets/curso/temas/tema_3/img_15.svg", class="img-fluid d-block d-lg-none img100")
-          figcaption 
-            I(style="font-weight: normal;") Fuente.  
-            | Adaptado Pulizzi, (2018).
+          figcaption  
+            p <b>Fuente:</b> Adaptado Pulizzi, (2018).
 
     separador  
 
