@@ -116,20 +116,77 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Producción de contenidos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Tipos y características de contenido digitals',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Proceso de producción de contenidos',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Técnicas de redacción persuasiva y narrativa digital',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Adaptación de contenidos',
+            hash: 't_4_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: 'Herramientas de producción para contenidos narrativos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Integración de texto, imagen y sonido en piezas narrativas digitales',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Evaluación de la calidad de los recursos',
+            hash: 't_5_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Tema 6',
+        titulo: 'Técnicas de escritura narrativa en entornos digitales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Redacción persuasiva y creativa',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Captación de atención',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Escritura de mensajes breves',
+            hash: 't_6_3',
+          },
+          {
+            numero: '6.4',
+            titulo: 'Análisis de ejemplos reales',
+            hash: 't_6_4',
+          },
+        ],
       },
     ],
     subMenu: [
