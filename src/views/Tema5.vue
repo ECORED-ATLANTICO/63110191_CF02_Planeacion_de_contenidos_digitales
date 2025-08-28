@@ -7,14 +7,16 @@
         span 5
       h1 Herramientas de producción
 
-    .row.justify-content-center.align-items-center
-      .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="fade-left")
+    .row.justify-content-center.align-items-stard
+      .col-8.col-lg-4.mb-0.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_5/img_1.png", data-aos="zoom-in")
       .col-12.col-lg-8(data-aos="fade-left")
         p(data-aos="fade-left").mb-3 La producción de contenidos narrativos no se limita a la creatividad: demanda la correcta utilización de herramientas digitales que permitan integrar imagen, sonido y texto de forma coherente y emocionalmente significativa.
-        p.mb-3 En entornos digitales saturados de estímulos, hay que destacar que se requiere no solo de ideas potentes, sino también de una ejecución técnica que respalde el mensaje, por eso, es importante el manejo de recursos de producción que, más allá de facilitar el proceso, elevan la calidad narrativa.
-        .row.mb-5.align-items-center
+        .tarjeta_bg-05.p-3
+          p.mb-3 En entornos digitales saturados de estímulos, hay que destacar que se requiere no solo de ideas potentes, sino también de una ejecución técnica que respalde el mensaje, por eso, es importante el manejo de recursos de producción que, más allá de facilitar el proceso, elevan la calidad narrativa.
+        <br>
+        .row.justify-content-center.align-items-stard
           .col-8.col-lg-2.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/temas/tema_5/img_3.svg", data-aos="zoom-in")
@@ -22,8 +24,6 @@
             p.mb-3 Cada recurso de producción es una herramienta que amerita el estudio correspondiente, a continuación presentamos algunas de ellas, e invitamos para que se estudien a profundidad a fin de que la producción de contenidos narrativos cobre un alto valor de calidad; antes de entrar en detalle, cabe mencionar que el contenido narrativo se presenta en diversos tipos, y que para cada uno de ellos, se podrán usar diferentes herramientas, los tipos más comunes incluyen:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10.mb-4(data-aos="fade-left")
-        p.mb-0 Existen múltiples tipos de contenido digital, cada uno con características específicas que determinan su funcionalidad dentro de una estrategia de comunicación.
       .col-12.col-lg-10.mb-3(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 5.
@@ -89,6 +89,16 @@
           .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema_5/img_7.png", data-aos="zoom-in")
+    
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10.mb-0
+      .tarjeta_bg-05-1
+      .row.justify-content-center.align-items-center.d-flex
+        .col-12.col-lg-7.p-3.order-2.order-xl-1
+          p.mb-0 <B>Ejemplo empresarial:</B> Coca-Cola emplea el <em>Storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores
+        .col-12.col-lg-3.order-1.order-xl-2.d-flex
+          img(src="@/assets/curso/temas/tema_5/img_9.png", style="display: flex; transform: translateY(-25px); width: 50% !important;")
+
 
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
