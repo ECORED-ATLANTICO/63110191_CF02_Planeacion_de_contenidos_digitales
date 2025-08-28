@@ -126,7 +126,7 @@ figcaption
       content: ''
       position: absolute
       margin: 0
-      top: -525px
+      top: 720px
       left: -48px
       width: calc(100% + 96px)
       height: 100%
@@ -191,39 +191,6 @@ figcaption
       background-image: url('../assets/curso/temas/tema_2/img_19.png') !important
       background-repeat: no-repeat
   
-// Tarjeta custom
-.tarjeta_bg-01
-  background-image: url('../assets/curso/temas/tema_1/img_6.png')
-  background-repeat: no-repeat
-  background-position: center
-  background-size: cover
-  border-radius: 20px
-  padding: 0
-
-.tarjeta_bg-02
-  background-image: url('../assets/curso/temas/tema_3/img_13.png')
-  background-repeat: no-repeat
-  background-position: center
-  background-size: cover
-  border-radius: 20px
-  padding: 0
-
-.tarjeta_bg-05
-  background-image: url('../assets/curso/temas/tema_5/img_2.png')
-  background-repeat: no-repeat
-  background-position: center
-  background-size: cover
-  border-radius: 20px
-  padding: 0
-
-.tarjeta_bg-05-2
-  background-image: url('../assets/curso/temas/tema_5/img_8.png')
-  background-repeat: no-repeat
-  background-position: center
-  background-size: cover
-  border-radius: 20px
-  padding: 0
-
 // Tabla a 
 .tabla-a thead
   border-top: 5px $color-primario solid !important
@@ -302,3 +269,115 @@ figcaption
 .bg-color-primario
   background-color: $color-primario
   padding: 5px
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+
+
+// --- .cita-decorada ---
+
+.cita-decorada
+  
+  .cita-decorada__caja
+    background-size: 100% 100%
+    background-repeat: no-repeat
+
+    &--fondo-1
+      background-image: url('../assets/curso/temas/tema_1/img_6.png')
+
+    &--fondo-2
+      background-image: url('../assets/curso/temas/tema_1/img_9.png')
+
+    &--fondo-3
+      background-image: url('../assets/curso/temas/tema_2/img_7.png')
+
+    &--fondo-4
+      background-image: url('../assets/curso/temas/tema_2/img_9.png')
+
+    &--fondo-5
+      background-image: url('../assets/curso/temas/tema_3/img_4.png')
+
+    &--fondo-6
+      background-image: url('../assets/curso/temas/tema_3/img_13.png')
+
+    &--fondo-7
+      background-image: url('../assets/curso/temas/tema_4/img_6.png')
+
+    &--fondo-8
+      background-image: url('../assets/curso/temas/tema_4/img_10.png')
+
+    &--fondo-9
+      background-image: url('../assets/curso/temas/tema_5/img_2.png')
+
+    &--fondo-10
+      background-image: url('../assets/curso/temas/tema_5/img_8.png')
+
+    &--fondo-11
+      background-image: url('../assets/curso/temas/tema_6/img_2.png')
+
+    &--fondo-12
+      background-image: url('../assets/curso/temas/tema_6/img_11.png')
+    
+    [class*="cita-decorada__imagen-flotante"]
+      width: 100%
+      height: auto
+      
+    .cita-decorada__imagen-flotante-1
+      transform: translateY(-10px) 
+      max-width: 200px 
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-2
+      transform: translateX(-55px)
+      min-width: 90px
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-3
+      min-width: 140px
+      max-width: 140px
+      margin: 0 auto 
+      
+    .cita-decorada__imagen-flotante-4
+      transform: translateY(25px) translateX(-20px) 
+      min-width: 220px
+      max-width: 370px
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-5
+      transform: translateY(25px)
+      max-width: 200px 
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-6
+      transform: translateY(-25px)
+      max-width: 200px 
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-7
+      transform: translateY(-25px)
+      min-width: 250px
+      max-width: 370px
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-8
+      transform: translateY(-15px)
+      min-width: 280px
+      max-width: 370px
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-9
+      transform: translateY(-45px)
+      min-width: 230px
+      max-width: 370px
+      margin: 0 auto 
+
+    .cita-decorada__imagen-flotante-10
+      min-width: 90px
+      max-width: 90px
+      margin: 0 auto 
+
+  .cita-decorada__texto
+    position: relative
+    margin: 0
+    line-height: 1.6
+    font-size: 1rem
+    font-family: system-ui, sans-serif

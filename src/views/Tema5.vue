@@ -7,21 +7,21 @@
         span 5
       h1 Herramientas de producción
 
-    .row.justify-content-center.align-items-stard
+    .row.justify-content-center.align-items-stard.mb-5
       .col-8.col-lg-4.mb-0.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_5/img_1.png", data-aos="zoom-in")
       .col-12.col-lg-8(data-aos="fade-left")
-        p(data-aos="fade-left").mb-3 La producción de contenidos narrativos no se limita a la creatividad: demanda la correcta utilización de herramientas digitales que permitan integrar imagen, sonido y texto de forma coherente y emocionalmente significativa.
-        .tarjeta_bg-05.p-3
-          p.mb-3 En entornos digitales saturados de estímulos, hay que destacar que se requiere no solo de ideas potentes, sino también de una ejecución técnica que respalde el mensaje, por eso, es importante el manejo de recursos de producción que, más allá de facilitar el proceso, elevan la calidad narrativa.
-        <br>
+        p.mb-2(data-aos="fade-left") La producción de contenidos narrativos no se limita a la creatividad: demanda la correcta utilización de herramientas digitales que permitan integrar imagen, sonido y texto de forma coherente y emocionalmente significativa.
+        .cita-decorada.mb-3(data-aos="fade-left")
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-9
+            p.cita-decorada__texto.p-4 En entornos digitales saturados de estímulos, hay que destacar que se requiere no solo de ideas potentes, sino también de una ejecución técnica que respalde el mensaje, por eso, es importante el manejo de recursos de producción que, más allá de facilitar el proceso, elevan la calidad narrativa.
         .row.justify-content-center.align-items-stard
           .col-8.col-lg-2.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/temas/tema_5/img_3.svg", data-aos="zoom-in")
           .col-12.col-lg-10
-            p.mb-3 Cada recurso de producción es una herramienta que amerita el estudio correspondiente, a continuación presentamos algunas de ellas, e invitamos para que se estudien a profundidad a fin de que la producción de contenidos narrativos cobre un alto valor de calidad; antes de entrar en detalle, cabe mencionar que el contenido narrativo se presenta en diversos tipos, y que para cada uno de ellos, se podrán usar diferentes herramientas, los tipos más comunes incluyen:
+            p.mb-0 Cada recurso de producción es una herramienta que amerita el estudio correspondiente, a continuación presentamos algunas de ellas, e invitamos para que se estudien a profundidad a fin de que la producción de contenidos narrativos cobre un alto valor de calidad; antes de entrar en detalle, cabe mencionar que el contenido narrativo se presenta en diversos tipos, y que para cada uno de ellos, se podrán usar diferentes herramientas, los tipos más comunes incluyen:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-3(data-aos="fade-left")
@@ -92,13 +92,14 @@
     
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
-      .tarjeta_bg-05-1
-      .row.justify-content-center.align-items-center.d-flex
-        .col-12.col-lg-7.p-3.order-2.order-xl-1
-          p.mb-0 <B>Ejemplo empresarial:</B> Coca-Cola emplea el <em>Storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores
-        .col-12.col-lg-3.order-1.order-xl-2.d-flex
-          img(src="@/assets/curso/temas/tema_5/img_9.png", style="display: flex; transform: translateY(-25px); width: 50% !important;")
-
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-10
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-8.p-4.order-2.order-lg-1
+                p.cita-decorada__texto <B>Ejemplo empresarial:</B> Coca-Cola emplea el <em>Storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores
+              .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
+                img(src="@/assets/curso/temas/tema_5/img_9.png",  class="img-fluid cita-decorada__imagen-flotante-9")
+    
 
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0

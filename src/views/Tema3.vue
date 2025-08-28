@@ -29,7 +29,7 @@
       .mb-3
           
     .bg_img_5.mb-3
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-5
         .col-10.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
           figure
             img(src="@/assets/curso/temas/tema_3/img_2.png", class="img-fluid")
@@ -59,6 +59,17 @@
             .col-12.col-lg-10(data-aos="fade-left")
               h6 Mejorar la imagen de marca
               p.linea-solida.mb-0 Reflejar los valores y propósito del negocio.
+        
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-8.p-4.order-2.order-lg-1
+                  p.cita-decorada__texto  <B>Ejemplo empresarial:</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre marketing digital.
+                .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema_3/img_5.png',  class="img-fluid cita-decorada__imagen-flotante-6")
+
 
     .row.justify-content-center.align-items-center.mb-0
       .col-10.col-lg-4.mb-lg-0.mb-3
@@ -70,14 +81,43 @@
     .mb-3
     
     .tarjeta.color-primario-5.rounded-0.p-0.mb-5
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
           figure.p-0
             img(src="@/assets/curso/temas/tema_3/img_6.png", class="img-fluid").p-0
         .col-12.col-lg-7.p-3
           p.mb-3 Los calendarios de publicación son herramientas que permiten organizar los tiempos y formatos en los que se distribuirá el contenido; sus beneficios permiten estructuración y orden al lograr mantener una planificación clara y evita publicaciones desordenadas; optimización de recursos ya que ayudan a distribuir esfuerzos y evita sobrecarga en la producción de contenido; mayor consistencia pues mantienen una frecuencia adecuada en la comunicación digital y evaluación de rendimiento en tanto facilitan el análisis de métricas para mejorar estrategias.
           h5.bg-color-primario.mb-0 De acuerdo con HubSpot (2022), los elementos clave de un calendario de publicación son:
-
+    
+    .row.justify-content-center.align-items-center.mb-0.mt-5
+      .col-10.col-lg-2.mb-lg-0.mb-3
+        .tarjeta--color-fondo-1.h-100
+          .row.justify-content-center.align-items-center.mb-0
+            .col-12.mb-0.d-flex
+              .tarjeta--5
+            .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Tipo de contenido 
+            .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Definir si es video, blog, post en redes, etc.
+      .col-10.col-lg-2.mb-lg-0.mb-3
+        .tarjeta--color-fondo-1.h-100
+          .row.justify-content-center.align-items-center.mb-0
+            .col-12.mb-0.d-flex
+              .tarjeta--6
+            .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Frecuencia
+            .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Establecer periodicidad de publicación.
+      .col-10.col-lg-2.mb-lg-0.mb-3
+        .tarjeta--color-fondo-1.h-100
+          .row.justify-content-center.align-items-center.mb-0
+            .col-12.mb-0.d-flex
+              .tarjeta--7
+            .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Plataforma
+            .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Determinar el canal de distribución.
+      .col-10.col-lg-2.mb-lg-0.mb-3
+        .tarjeta--color-fondo-1.h-100
+          .row.justify-content-center.align-items-center.mb-0
+            .col-12.mb-0.d-flex
+              .tarjeta--8
+            .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Responsables
+            .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Asignar equipo encargado del contenido.
     separador  
 
     #t_3_3.titulo-segundo.color-acento-contenido
@@ -90,8 +130,9 @@
           img(src="@/assets/curso/temas/tema_3/img_12.png", class="img-fluid")
       .col-12.col-lg-9
         p.mb-3(data-aos="fade-left") Los mapas de contenido permiten estructurar y visualizar la relación entre distintas piezas de contenido dentro de una estrategia digital; estos mapas sirven para organizar ideas, identificar conexiones y garantizar coherencia en la comunicación.
-        .tarjeta_bg-02.mb-0
-          p.mb-0.p-4 Son grandes los beneficios de los mapas de contenido, ya que facilitan la planificación estratégica al permitir definir claramente las temáticas y su orden de publicación, garantizan cohesión narrativa ya que ayudan a mantener un hilo conductor en el contenido y optimizan la estructura y flujo de información pues organizan los mensajes de manera lógica para mejorar la experiencia del usuario.
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-6
+            p.mb-0.p-5 Son grandes los beneficios de los mapas de contenido, ya que facilitan la planificación estratégica al permitir definir claramente las temáticas y su orden de publicación, garantizan cohesión narrativa ya que ayudan a mantener un hilo conductor en el contenido y optimizan la estructura y flujo de información pues organizan los mensajes de manera lógica para mejorar la experiencia del usuario.
     
     .bg_img_5.mb-3
       .row.justify-content-center.align-items-center.mb-0

@@ -90,6 +90,16 @@
             i.fas.fa-quote-right
         .cajon.color-secundario-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 La narrativa digital, por su parte, debe ser flexible y adaptarse al formato, sin perder la profundidad de su mensaje (Hyland, 2019). Redactar con propósito narrativo implica elegir cuidadosamente cada palabra, asegurando que cada párrafo tenga ritmo, sentido y resonancia emocional.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-8.p-4.order-2.order-lg-1
+                p.cita-decorada__texto  <B>Ejemplo empresarial:</B> Dove, en su campaña Real Beauty, muestran cómo la redacción persuasiva puede empoderar. Los testimonios reales, acompañados de frases como “la belleza está en lo auténtico”, generaron identificación masiva, reforzando valores sociales. En contraste, Nike utiliza estructuras breves como “You don’t win silver, you lose gold”, que   evocan competitividad, ambición y determinación, apelando al deseo de superación del lector.
+              .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
+                img(src='@/assets/curso/temas/tema_4/img_7.png',  class="img-fluid cita-decorada__imagen-flotante-7")
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -135,6 +145,7 @@
                 td Frase corta con acción
                 td Estimula decisión inmediata
                 td “Suscríbete y transforma tu rutina” - Headspace
+      
       .col-12.col-lg-10.mb-3
 
         separador  
@@ -168,12 +179,13 @@
           .col-10
             p.linea-solida.mb-0  <B>Refuerza la identidad de marca:</B> mantiene coherencia entre todos los puntos de contacto digitales.
       .col-12.col-lg-10.mb-0
-        .tarjeta_bg-01.mb-0
-          .row.justify-content-center.align-items-center.d-flex
-            .col-12.col-lg-7.p-3.order-2.order-lg-1
-              p.mb-0 <B>Ejemplo empresarial:</B> <em>Netflix</em> adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de streaming lanza trailers completos para captar la audiencia de manera más efectiva.
-            .col-12.col-lg-3.order-1.order-lg-2.d-flex
-              img(src="@/assets/curso/temas/tema_4/img_11.png", style="display: flex; transform: translateY(-25px); width: 100% !important;")
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-8.p-4.order-2.order-lg-1
+                p.cita-decorada__texto <B>Ejemplo empresarial:</B> <em>Netflix</em> adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de streaming lanza trailers completos para captar la audiencia de manera más efectiva.
+              .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
+                img(src="@/assets/curso/temas/tema_4/img_11.png",  class="img-fluid cita-decorada__imagen-flotante-8")
     
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")

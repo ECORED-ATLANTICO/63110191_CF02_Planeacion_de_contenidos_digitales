@@ -27,33 +27,42 @@
           img(src='@/assets/curso/temas/tema_2/img_2.png', class="img-fluid")
       .col-12.col-lg-8
         .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
-          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
+          SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
             .tarjeta--color-adicional-1.h-100
-              .tarjeta--1
-              .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa heroica
-              .tarjeta--slider__content.text-center Presenta un personaje que enfrenta desafíos y supera obstáculos, generando inspiración en la audiencia.
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--1
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa heroica
+                .tarjeta--slider__content.text-center Presenta un personaje que enfrenta desafíos y supera obstáculos, generando inspiración en la audiencia.
             .tarjeta--color-adicional-1.h-100
-              .tarjeta--2
-              .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa emocional
-              .tarjeta--slider__content.text-center Apela a sentimientos profundos como nostalgia, felicidad o motivación para generar conexión.
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--2
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa emocional
+                .tarjeta--slider__content.text-center Apela a sentimientos profundos como nostalgia, felicidad o motivación para generar conexión.
             .tarjeta--color-adicional-1.h-100
-              .tarjeta--3
-              .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa de transformación 
-              .tarjeta--slider__content.text-center Muestra un cambio significativo en la vida del personaje, destacando el impacto de un producto o servicio.
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--3
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa de transformación 
+                .tarjeta--slider__content.text-center Muestra un cambio significativo en la vida del personaje, destacando el impacto de un producto o servicio.
             .tarjeta--color-adicional-1.h-100
-              .tarjeta--4
-              .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa educativa 
-              .tarjeta--slider__content.text-center Explica conceptos y guía a la audiencia mediante ejemplos prácticos.
+              .row.justify-content-center.align-items-center.mb-0
+                .col-8.mb-3
+                  .tarjeta--4
+                .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa educativa 
+                .tarjeta--slider__content.text-center Explica conceptos y guía a la audiencia mediante ejemplos prácticos.
 
     .bg_img_3.mb-3
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-10.mb-0
-          .tarjeta_bg-01.mb-0
-            .row.justify-content-center.align-items-center.d-flex
-              .col-12.col-lg-7.p-3.order-2.order-lg-1
-                p.mb-0 <B>Ejemplo empresarial:</B> La campaña <em>“Just Do It” de Nike</em> utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
-              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3.d-flex
-                img(src="@/assets/curso/temas/tema_2/img_8.png", style="display: flex; transform: translateY(25px); width: 100% !important;")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-3
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-9.order-2.order-lg-1
+                  p.cita-decorada__texto <B>Ejemplo empresarial:</B> La campaña <em>“Just Do It” de Nike</em> utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
+                .col-12.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
+                  img(src="@/assets/curso/temas/tema_2/img_8.png", class="img-fluid cita-decorada__imagen-flotante-4")
 
       separador
           
@@ -90,12 +99,14 @@
                 td  Interactivo
                 td  Narrativas personalizadas con participación del usuario.
       .col-12.col-lg-10.mb-4
-        .tarjeta_bg-01.mb-0
-          .row.justify-content-center.align-items-center.d-flex
-            .col-8.col-lg-3.mb-lg-0.mb-3.d-flex
-              img(src="@/assets/curso/temas/tema_2/img_10.png", style="display: flex; transform: translateY(25px); width: 100% !important;")
-            .col-12.col-lg-7.p-3
-              p.mb-0 <B>Ejemplo empresarial:</B> <em>Airbnb</em> adapta sus historias según el formato; en su <em>blog</em> publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
+                  img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid cita-decorada__imagen-flotante-5")
+                .col-12.col-lg-10.cita-decorada__texto
+                  p.mb-0 <B>Ejemplo empresarial:</B> <em>Airbnb</em> adapta sus historias según el formato; en su <em>blog</em> publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
+              
       .col-12.col-lg-10.mb-3
 
         separador
