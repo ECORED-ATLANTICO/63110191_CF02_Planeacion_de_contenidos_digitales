@@ -146,7 +146,7 @@
         p.mb-3 La adaptación de contenidos es el proceso de modificar y ajustar los mensajes, formatos y estructura de la información según el medio o plataforma en el que se distribuirá. Este ajuste es esencial para garantizar que la comunicación sea efectiva y que el contenido mantenga su impacto independientemente del canal de distribución.
         p.mb-0 La adaptación de contenidos es importante porque:
     
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-5.mb-3
         .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
           .avatar-circular--2.mb-lg-0.mb-3
@@ -157,16 +157,59 @@
           .avatar-circular--2.mb-lg-0.mb-3
           .col-10
             p.linea-solida.mb-0 <B>Maximiza el alcance:</B> un mismo mensaje puede llegar a diferentes públicos dependiendo de cómo se presenta.
-      .col-12.col-lg-5.mb-3
+      .col-12.col-lg-5.mb-4
         .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
           .avatar-circular--2.mb-lg-0.mb-3
           .col-10
             p.linea-solida.mb-0 <B>Mejora la interacción y el engagement:</B> adecuar el formato según el canal permite captar mejor la atención.
-      .col-12.col-lg-5.mb-3
+      .col-12.col-lg-5.mb-4
         .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
           .avatar-circular--2.mb-lg-0.mb-3
           .col-10
             p.linea-solida.mb-0  <B>Refuerza la identidad de marca:</B> mantiene coherencia entre todos los puntos de contacto digitales.
+      .col-12.col-lg-10.mb-0
+        .tarjeta_bg-01.mb-0
+          .row.justify-content-center.align-items-center.d-flex
+            .col-12.col-lg-7.p-3.order-2.order-lg-1
+              p.mb-0 <B>Ejemplo empresarial:</B> <em>Netflix</em> adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de streaming lanza trailers completos para captar la audiencia de manera más efectiva.
+            .col-12.col-lg-3.order-1.order-lg-2.d-flex
+              img(src="@/assets/curso/temas/tema_4/img_11.png", style="display: flex; transform: translateY(-25px); width: 100% !important;")
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
+        figure
+          img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-flud")
+      .col-12.col-lg-7.mb-5
+        .tarjeta.tarjeta--fondo__slider.p-4.mb-0
+          SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-5
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Redes sociales
+                p.mb-0 Contenidos breves, visuales y dinámicos para facilitar la interacción.
+              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_4/img_13.png')
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Blogs y artículos
+                p.mb-0 Narrativas extensas y bien estructuradas para informar con profundidad.
+              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_4/img_14.png')
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Email marketing
+                p.mb-0 Personalización de mensajes según segmentación de usuarios.
+              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_4/img_15.png')
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+                h5 Podcast y video
+                p.mb-0 Uso de audio y visuales para potenciar la conexión emocional.
+              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_4/img_16.png')
 </template>
 
 <script>

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Tema 6
+      h1 Técnicas de escritura
 
 
 </template>
