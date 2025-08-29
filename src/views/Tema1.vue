@@ -8,7 +8,7 @@
       h1 <em>Storytelling</em>
     .bg_img_1.mb-3
       .row.justify-content-center.align-items-center.mb-0
-        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
+        .col-10.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
           figure
             img(src="@/assets/curso/temas/tema_1/img_1.png", class="img-fluid")
         .col-12.col-lg-7

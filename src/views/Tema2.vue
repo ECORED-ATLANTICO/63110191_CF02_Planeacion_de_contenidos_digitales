@@ -61,7 +61,7 @@
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-9.order-2.order-lg-1
                   p.cita-decorada__texto <B>Ejemplo empresarial:</B> La campaña <em>“Just Do It” de Nike</em> utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
-                .col-12.col-lg-2.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
+                .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
                   img(src="@/assets/curso/temas/tema_2/img_8.png", class="img-fluid cita-decorada__imagen-flotante-4")
 
       separador
@@ -98,13 +98,13 @@
               tr
                 td  Interactivo
                 td  Narrativas personalizadas con participación del usuario.
-      .col-12.col-lg-10.mb-4
+      .col-12.col-lg-10.mb-0
           .cita-decorada
-            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-0
               .row.justify-content-center.align-items-center
-                .col-12.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
+                .col-12.col-lg-3.mb-lg-0.mb-0.d-none.d-lg-block.p-0
                   img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid cita-decorada__imagen-flotante-5")
-                .col-12.col-lg-10.cita-decorada__texto
+                .col-12.col-lg-9.cita-decorada__texto
                   p.mb-0 <B>Ejemplo empresarial:</B> <em>Airbnb</em> adapta sus historias según el formato; en su <em>blog</em> publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
               
       .col-12.col-lg-10.mb-3
@@ -179,7 +179,7 @@
             img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100")
             img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100")
           figcaption 
-            p <b> Fuente.</b> SENA 2024.
+            p <b> Fuente:</b> SENA 2024.
 </template>
 
 <script>
