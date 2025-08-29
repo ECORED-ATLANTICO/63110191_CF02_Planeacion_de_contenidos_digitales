@@ -28,25 +28,25 @@
       .col-12.col-lg-8
         .custom-slider.p-5.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6")
-            .tarjeta--color-adicional-1.h-100
+            .tarjeta--color-adicional-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-8.mb-3
                   .tarjeta--1
                 .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa heroica
                 .tarjeta--slider__content.text-center Presenta un personaje que enfrenta desafíos y supera obstáculos, generando inspiración en la audiencia.
-            .tarjeta--color-adicional-1.h-100
+            .tarjeta--color-adicional-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-8.mb-3
                   .tarjeta--2
                 .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa emocional
                 .tarjeta--slider__content.text-center Apela a sentimientos profundos como nostalgia, felicidad o motivación para generar conexión.
-            .tarjeta--color-adicional-1.h-100
+            .tarjeta--color-adicional-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-8.mb-3
                   .tarjeta--3
                 .tarjeta--slider__title.mb-3.bg-color-acento-contenido.text-center.fw-bold Narrativa de transformación 
                 .tarjeta--slider__content.text-center Muestra un cambio significativo en la vida del personaje, destacando el impacto de un producto o servicio.
-            .tarjeta--color-adicional-1.h-100
+            .tarjeta--color-adicional-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-8.mb-3
                   .tarjeta--4
