@@ -134,7 +134,7 @@
               img(src='@/assets/curso/temas/tema_2/img_12.png')
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5 Dove - <em>storytelling</em> de Empoderamiento y Diversidad
+            h5 Dove - <em>storytelling</em> de empoderamiento y diversidad
             p.mb-3 Dove implementó una campaña llamada <em>"Real Beauty"</em>, en la que mostraba historias de mujeres reales, promoviendo la aceptación de la belleza natural.
             p.mb-0 <B>Narrativa utilizada:</B> emocional y social.
             p.mb-0 <B>Aplicación:</B> videos, testimonios y campañas en redes sociales.
@@ -173,10 +173,10 @@
             h5 Figura 2.
             |    Estrategias para mejorar el <em>engagement</em> con <em>storytelling</em> 
           figure
-            img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
-            img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
+            img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el engagement con storytelling • Interactividad: permitir que los usuarios participen en la historia.• Uso de emociones: apelar a sentimientos profundos para generar conexión. • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
+            img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el engagement con storytelling • Interactividad: permitir que los usuarios participen en la historia.• Uso de emociones: apelar a sentimientos profundos para generar conexión. • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
           figcaption 
-            p <b> Fuente:</b> SENA 2024.
+            p <b> Fuente:</b> SENA 2025.
 </template>
 
 <script>

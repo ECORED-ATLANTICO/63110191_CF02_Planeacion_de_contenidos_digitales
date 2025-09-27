@@ -14,7 +14,7 @@
         .col-12.col-lg-7.mb-3(data-aos="fade-left")
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-6
-              p.mb-0.p-3 En un mundo saturado de información, las historias se han convertido en una de las formas más efectivas de comunicar ideas, despertar emociones y captar la atención del público. Antes que los datos o los argumentos racionales, las narrativas logran conectar con las personas porque apelan a su memoria, imaginación y experiencia. Esta capacidad de transformar mensajes en vivencias significativas da origen a una disciplina clave en el marketing, la educación y la comunicación estratégica: el Storytelling.
+              p.mb-0.p-3 En un mundo saturado de información, las historias se han convertido en una de las formas más efectivas de comunicar ideas, despertar emociones y captar la atención del público. Antes que los datos o los argumentos racionales, las narrativas logran conectar con las personas porque apelan a su memoria, imaginación y experiencia. Esta capacidad de transformar mensajes en vivencias significativas da origen a una disciplina clave en el <i>marketing</i>, la educación y la comunicación estratégica: el <i>storytelling</i>.
         separador
 
       .row.justify-content-center.align-items-center.mb-0     
@@ -134,7 +134,7 @@
                   img(src='@/assets/curso/temas/tema_1/img_10.png',  class="img-fluid cita-decorada__imagen-flotante-2")
                 .col-12.col-lg-8.cita-decorada__texto
                   h5 Qué es y cómo hacer un <em>storytelling</em>
-                  p A continuación, un video donde se apreciar la importancia del <em>storytelling</em> en el marketing.
+                  p A continuación, un video donde se aprecia la importancia del <em>storytelling</em> en el <i>marketing</i>.
                 .col-6.col-lg-3
                   a.ms-lg-0.ms-5.cita-decorada__imagen-flotante-3.boton.color-acento-botones(href="https://www.youtube.com/watch?v=77TAn3GuKSg" target="_blank")
                     span Ver video
