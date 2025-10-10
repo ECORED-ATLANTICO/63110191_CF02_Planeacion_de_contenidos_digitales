@@ -335,7 +335,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Araujo. F. (2023). <i>¿CQué es la creación de contenido digital y para qué sirve?</i>Los Creativos.',
+        'Araujo. F. (2023). <i>¿Qué es la creación de contenido digital y para qué sirve?</i> Los Creativos.',
       link: 'https://loscreativos.mx/marketing/crear-buen-contenido-digital/',
     },
     {
