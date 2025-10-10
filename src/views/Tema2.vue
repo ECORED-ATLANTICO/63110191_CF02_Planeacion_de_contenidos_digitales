@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Estrategias de contenidos basadas en <i>storytelling</i>:
+      h1 Estrategias de contenidos basadas en <i>storytelling</i>
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0

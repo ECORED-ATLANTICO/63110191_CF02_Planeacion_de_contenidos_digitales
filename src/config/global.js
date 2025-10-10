@@ -275,7 +275,7 @@ export default {
     {
       tema: 'Planificación de contenidos',
       referencia:
-        'Planable. (2025). <i>13 content planning tools for marketing success.</i> ',
+        'Planable. (2025). <i>13 content planning tools for marketing success in 2025.</i> ',
       tipo: 'Artículo web',
       link: 'https://planable.io/blog/content-planning-tools/',
     },
@@ -335,7 +335,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Araujo. F. (2023). <i>¿Cómo crear buen contenido digital?</i>Los Creativos.',
+        'Araujo. F. (2023). <i>¿CQué es la creación de contenido digital y para qué sirve?</i>Los Creativos.',
       link: 'https://loscreativos.mx/marketing/crear-buen-contenido-digital/',
     },
     {
